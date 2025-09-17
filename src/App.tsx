@@ -9,7 +9,7 @@ import { ServiceRecordDetailModal } from './components/ServiceRecordDetailModal'
 import { ServiceRecordViewModal } from './components/ServiceRecordViewModal';
 import { type ReviewCase } from './components/QuickReviewModal';
 import { Toaster } from './components/ui/sonner';
-import ... from "sonner";
+import * as sonner from "sonner";
 
 // 擴展模擬資料，包含更詳細的服務紀錄資訊
 interface ExtendedServiceRecord {
