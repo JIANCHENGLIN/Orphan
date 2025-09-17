@@ -4,7 +4,6 @@ import { ReviewTable } from './components/ReviewTable';
 import { DetailedReviewPage } from './components/DetailedReviewPage';
 import { RejectConfirmModal, type RejectionData } from './components/RejectConfirmModal';
 import { SocialWorkerDashboard } from './components/SocialWorkerDashboard';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 import { ServiceRecordDetailModal } from './components/ServiceRecordDetailModal';
 import { ServiceRecordViewModal } from './components/ServiceRecordViewModal';
